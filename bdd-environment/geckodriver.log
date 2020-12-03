@@ -1,0 +1,8 @@
+1606915754946	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6y/3ssbhwxn209_d5jqc3v2_7hm0000gn/T/rust_mozprofileg3UHev"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606915757876	Marionette	INFO	Listening on port 52633
+1606915757955	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606915771569	Marionette	INFO	Stopped listening on port 52633
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
