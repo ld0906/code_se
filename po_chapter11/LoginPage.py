@@ -1,3 +1,8 @@
+"""
+Created by 2020/12/01
+QQ: 2574674466
+"""
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from configparser import ConfigParser
