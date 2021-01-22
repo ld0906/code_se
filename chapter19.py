@@ -1,3 +1,9 @@
+"""
+Created by 2020/12/01
+QQ: 2574674466
+微信公众号：TimTest
+"""
+
 import unittest
 from selenium import webdriver
 from selenium.webdriver.common.by import By
