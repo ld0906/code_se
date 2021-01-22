@@ -1,3 +1,8 @@
+"""
+Created by 2020/12/01
+QQ: 2574674466
+微信公众号：TimTest
+"""
 from selenium import webdriver
 from LoginPage import *
 import time
